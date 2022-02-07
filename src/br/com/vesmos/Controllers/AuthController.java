@@ -17,6 +17,7 @@ import br.com.vesmos.Repositories.UserRepository;
 /**
  * Auth Controller
  * @author Guilherme Vilela Oliveira <guivo11@gmail.com>
+  Teste de Atualização Git
  */
 public class AuthController 
 {
